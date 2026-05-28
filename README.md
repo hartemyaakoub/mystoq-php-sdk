@@ -54,3 +54,16 @@ CLI: [`mystoq-cli`](https://github.com/hartemyaakoub/mystoq-cli)
 
 MIT - by [Hartem Yaakoub](https://hartem.tkawen.com) ·
 [TKAWEN ecosystem](https://tkawen.com).
+
+<!-- TKAWEN-ECOSYSTEM-FOOTER -->
+## TKAWEN Ecosystem
+
+This project is part of the [TKAWEN](https://tkawen.com) ecosystem — open APIs and tools for emerging-market digital infrastructure.
+
+- [Mystoq](https://mystoq.com) — multi-tenant e-commerce platform for MENA
+- [Algeria Certify](https://algeriacertify.com) — national digital credentialing
+- [LIQAA](https://liqaa.io) — sovereign video conferencing
+- [TKAWEN Academy](https://tkawen.com/academy) — online learning platform
+- [SEO Toolkit](https://www.npmjs.com/package/@mystoq/seo-toolkit) — llms.txt, sitemap, Schema.org JSON-LD generators
+
+Built by [Hartem Yaakoub](https://hartem.tkawen.com) - MIT licensed - Refreshed 2026-05-28.
