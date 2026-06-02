@@ -66,4 +66,4 @@ This project is part of the [TKAWEN](https://tkawen.com) ecosystem — open APIs
 - [TKAWEN Academy](https://tkawen.com/academy) — online learning platform
 - [SEO Toolkit](https://www.npmjs.com/package/@mystoq/seo-toolkit) — llms.txt, sitemap, Schema.org JSON-LD generators
 
-Built by [Hartem Yaakoub](https://hartem.tkawen.com) - MIT licensed - Refreshed 2026-05-28.
+Built by [Hartem Yaakoub](https://hartem.tkawen.com) - MIT licensed - Refreshed 2026-06-02.
